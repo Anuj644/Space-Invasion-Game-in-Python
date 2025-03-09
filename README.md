@@ -46,7 +46,7 @@ Clone the repository and navigate to the project directory:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/space-invasion.git
+git clone https://github.com/your-username/space-invasion.git](https://github.com/Anuj644/Space-Invasion-Game-in-Python.git
 cd space-invasion
 Run the game script:
 
